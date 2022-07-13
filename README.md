@@ -6,4 +6,4 @@ Contact List APP
 
 ## Hospedado na Vercel
 
-- [API Vercel Link](https://helio2f-contact-list-api.herokuapp.com/)
+- [APP Vercel Link](https://helio2f-contact-list-app.vercel.app/)

@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
-import Cookies from "js-cookie";
 import { useRouter } from 'next/router';
 import { Container } from "./styles";
 import { useAuth } from "../../utils/contexts/auth";
 
+import Cookies from "js-cookie";
 import decoder from 'jwt-decode';
 
 export default function TopBar() {
